@@ -41,32 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "仓库架构介绍.md",
+                "file": "日志/2025-04-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "仓库架构介绍"
+              "title": "2025-04-30"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "e19a13d4ca132c32",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7be8d8aa1b30f211",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -206,13 +190,23 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "90d7f9b289501f57",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,6 +225,9 @@
   "active": "73144542171b0337",
   "lastOpenFiles": [
     "仓库架构介绍.md",
+    "日志/2025-04-30.md",
+    "日志",
+    "202504301752.md",
     "欢迎.md"
   ]
 }
